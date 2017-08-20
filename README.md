@@ -5,8 +5,8 @@
 - 感谢[myth](https://www.v2ex.com/member/myth)
 
 ### 效果
-![render.gif](.\render.gif)
-![render.png](.\render.png)
+![render.gif](./render.gif)
+![render.png](./render.png)
 
 ### 工具
 - python3.5 + pyqt4 + pyinstaller
